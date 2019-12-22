@@ -20,7 +20,7 @@ Displaying doctors associated with the hospital they belong.<br/>
 Creating doctor form.<br/>
 <img src="/images/CreateDoctor.PNG" alt="Doctor create" width="200" height="200"  /><br/>
 
-Searching doctors.
+Searching doctors.<br/>
 <img src="/images/SearchDoctors.PNG" alt="Doctor search" width="200" height="200"  /><br/>
 
 Displaying server error to client if the error occurred.<br/>
